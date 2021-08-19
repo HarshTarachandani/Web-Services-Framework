@@ -1,0 +1,1 @@
+javac -classpath c:\tomcat9\webapps\TMWEBRocks\WEB-INF\lib\*;c:\tomcat9\lib\*;c:\tomcat9\webapps\TMWEBRocks\WEB-INF\classes;. ServiceDoc.java
